@@ -1,1 +1,1 @@
-print("hola que tal , disfrutando de la playa")
+print("hola que tal , disfrutando de la montaña")
